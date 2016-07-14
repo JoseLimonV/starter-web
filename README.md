@@ -13,3 +13,5 @@ Yes
 Sample website with plenty of files for demos
 
 This is a smaple website
+
+### Copyright training
