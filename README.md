@@ -16,3 +16,4 @@ Sample website with plenty of files for demos
 This is a smaple website
 
 ### Copyright training
+2016 all rights reserved
